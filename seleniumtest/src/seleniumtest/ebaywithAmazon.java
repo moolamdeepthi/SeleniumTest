@@ -62,4 +62,5 @@ public class ebaywithAmazon {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("Amazon site opened");	
 }}
