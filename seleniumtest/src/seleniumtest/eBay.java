@@ -44,4 +44,5 @@ public class eBay {
 
 		}
 		System.out.println("eBaysite opened");
+		System.out.println("Sdn books Displayed");
 }}
