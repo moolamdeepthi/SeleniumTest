@@ -43,4 +43,5 @@ public class eBay {
 			e.printStackTrace();
 
 		}
+		System.out.println("eBaysite opened");
 }}
