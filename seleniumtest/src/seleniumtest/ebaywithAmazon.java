@@ -15,7 +15,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class EBaywithAmazon {
+public class ebaywithAmazon {
 	public	 WebDriver driver = new FirefoxDriver();
 	public String expectedTitle = null;
 	public String actualTitle = null;
@@ -48,6 +48,7 @@ public class EBaywithAmazon {
 	System.out.println("Test priority completed");
 	
 }
+
 	@Test(priority=1)
 	public void amazon(){
 		driver.get("http://www.amazon.com");	
