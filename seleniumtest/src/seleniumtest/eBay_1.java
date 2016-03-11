@@ -47,6 +47,8 @@ package seleniumtest;
 			System.out.println("eBaysite opened");
 			System.out.println("Sdn books Displayed");
 			System.out.println("test pass");
+			System.out.println("Test priority completed");
+			
 	}}
 
 
